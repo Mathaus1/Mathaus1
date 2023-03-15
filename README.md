@@ -1,12 +1,10 @@
 # Olá. Sou o Mathaus 👋
-# Hello. I am Mathaus 👋
 ### Bem vindo ao meu perfil GitHub.
-### Welcome to my GitHub.
 
 <!--
 **Mathaus1/Mathaus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
