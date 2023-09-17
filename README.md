@@ -2,4 +2,4 @@
 ### Bem vindo ao meu perfil GitHub.
 
 
-<img width:200px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width:20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
