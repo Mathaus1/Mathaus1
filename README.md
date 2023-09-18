@@ -3,7 +3,7 @@
 
 ### Bem vindo ao meu perfil GitHub.
 
-- 🌱 Atualmente estou aprendendo React
+- 🌱 Atualmente estou aprendendo React e Python
 - 📫 Como entrar em contato comigo: mathaus.silva@outlook.com.br
 
 <br/>
