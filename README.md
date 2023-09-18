@@ -9,7 +9,7 @@
 <br/>
 
 ## Ferramentas e tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://myoctocat.com/build-your-octocat/" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 
 
 ## Estou aprendendo
@@ -24,5 +24,4 @@
 <img loading="lazy" height="115em" src="https://github-readme-stats.vercel.app/api?username=Mathaus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
+![octocat](https://github.com/Mathaus1/Mathaus1/assets/101904698/73174f50-74ae-4aa9-808f-37ec0e6fdc7d)
