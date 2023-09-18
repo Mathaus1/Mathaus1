@@ -25,4 +25,4 @@
 </div>
 
 
-<img src="C:\Users\Mathaus\Desktop\octocat.png" width="40" height="40"/>
+<img src="https://myoctocat.com/build-your-octocat/" width="40" height="40"/>
