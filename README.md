@@ -5,7 +5,8 @@
 
 - 🌱 Atualmente estou aprendendo React e Python
 - 📫 Como entrar em contato comigo: mathaus.silva@outlook.com.br
-  <hr/>
+
+<hr/>
 
 <br/>
 
