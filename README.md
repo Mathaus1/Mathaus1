@@ -6,7 +6,6 @@
 - 🌱 Atualmente estou aprendendo React e Python
 - 📫 Como entrar em contato comigo: mathaus.silva@outlook.com.br
 
-<hr/>
 
 ### Ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
@@ -16,7 +15,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 <br/> <br/>
-<hr/>
 
 <div>
 <a href="https://github.com/Mathaus1">
