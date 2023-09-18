@@ -23,4 +23,4 @@
 <img loading="lazy" height="115em" src="https://github-readme-stats.vercel.app/api?username=Mathaus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 100 100"></svg>
+<img src="http://www.w3.org/2000/svg" width="40" height="40"/> 
