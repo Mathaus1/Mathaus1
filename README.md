@@ -24,4 +24,3 @@
 <img loading="lazy" height="115em" src="https://github-readme-stats.vercel.app/api?username=Mathaus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![octocat](https://github.com/Mathaus1/Mathaus1/assets/101904698/73174f50-74ae-4aa9-808f-37ec0e6fdc7d)
